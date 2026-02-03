@@ -1,6 +1,7 @@
 # Configuración Modular - Bee Swarm Game
 
-Este directorio contiene todos los archivos de configuración modulares del juego, organizados por categoría. Cada archivo es independiente y se carga automáticamente en `beeswarm.html`.
+This directory contains all the modular configuration files for the game, organized by category.
+Each file is independent and is automatically loaded into `beeswarm.html`.
 
 ## Estructura de Archivos
 
@@ -192,3 +193,4 @@ Todos estos archivos se cargan automáticamente en `beeswarm.html` mediante:
 
 ## Versión
 1.0 - Estructura inicial con 5 categorías de configuración
+
